@@ -25,4 +25,4 @@ BTC; `13djLCGVhc3EF86XPm5TTY73zUypiUSTG3`
 Method & Code
 ---
 * T13R/Ertuğrul TURAN
-
+* https://phpkoru.com/
